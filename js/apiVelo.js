@@ -1,17 +1,3 @@
-//https://api.jcdecaux.com/vls/v1/stations/123?contract=Nantes&apiKey=2e857fa202b1aa5ccc51813a96bf06fd4a7a08bb
-//URL pour avoir une station précise
-
-//https://api.jcdecaux.com/vls/v1/contracts?&apiKey=2e857fa202b1aa5ccc51813a96bf06fd4a7a08bb
-//URL pour avoir la liste des villes disponibles 
-
-//https://api.jcdecaux.com/vls/v1/stations?&apiKey=2e857fa202b1aa5ccc51813a96bf06fd4a7a08bb
-//URL pour avoir la totalité des stations, traitement très long, à éviter
-
-/*var contractName = "Nantes";
-var apiKeyJCDECAUX = "2e857fa202b1aa5ccc51813a96bf06fd4a7a08bb";
-var url = 'https://api.jcdecaux.com/vls/v1/stations?contract=' + contractName + '&apiKey=' + apiKeyJCDECAUX;
-*/
-
 var Stations = {
 	contractName : "Nantes",
 	apiKeyJCDECAUX : "2e857fa202b1aa5ccc51813a96bf06fd4a7a08bb",
