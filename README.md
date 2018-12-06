@@ -7,13 +7,18 @@ Cette application doit notamment, en s'appuyant sur JavaScript, afficher une car
 
 Diaporama
 
-    Vous devez afficher en haut de la page un diaporama de photos et de textes expliquant le fonctionnement de l'application. La logique du diaporama doit être écrite par vos soins. L’utilisation de tout plugin automatisant la logique de l’application est proscrite.
+    Vous devez afficher en haut de la page un diaporama de photos et de textes expliquant le fonctionnement de l'application. 
+    La logique du diaporama doit être écrite par vos soins. 
+    L’utilisation de tout plugin automatisant la logique de l’application est proscrite.
 
-    Le diaporama passe automatiquement à la diaporama suivante toutes les 5 secondes. L’utilisateur peut toutefois choisir de mettre le diaporama en pause. Il peut également reculer ou avancer manuellement à l’aide d’un clic de souris, ainsi qu’avec les touches gauche et droite de son clavier.
+    Le diaporama passe automatiquement à la diaporama suivante toutes les 5 secondes. 
+    L’utilisateur peut toutefois choisir de mettre le diaporama en pause. 
+    Il peut également reculer ou avancer manuellement à l’aide d’un clic de souris, ainsi qu’avec les touches gauche et droite de son clavier.
 
 Carte des vélos
 
-    En-dessous du diaporama se trouve une carte affichant en temps réel la liste des stations de location de vélos ainsi que leur disponibilité.  La localisation de toutes les stations de vélos est affichée à l’aide de marqueurs.
+    En-dessous du diaporama se trouve une carte affichant en temps réel la liste des stations de location de vélos ainsi que leur disponibilité. 
+    La localisation de toutes les stations de vélos est affichée à l’aide de marqueurs.
 
     La localisation et l'état de chaque station (ouverte, en travaux, combien de vélos et de places sont disponibles, etc.) est fourni via la plateforme OpenData de JC Decaux.
     
@@ -30,7 +35,8 @@ Réservation d'un vélo
 
     Une fois la réservation validée,  un vélo est marqué comme réservé à cette station.
     
-    Pour ce projet, la réservation ne sera pas communiquée à un serveur. Seul le navigateur de l'utilisateur "retiendra" que le vélo a été réservé.
+    Pour ce projet, la réservation ne sera pas communiquée à un serveur. 
+    Seul le navigateur de l'utilisateur "retiendra" que le vélo a été réservé.
     
     Les données de réservation seront stockées dans le navigateur à l’aide de l’API Web Storage et affichées en dessous du panneau. L'état de la réservation (s’il y en a une) est ainsi affiché, avec un décompte dynamique du temps restant avant expiration de la réservation.
 
