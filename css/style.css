@@ -2,7 +2,6 @@
     font-family: 'amblebold';
     src: url('webfonts/amble_bold_macroman/Amble-Bold-webfont.eot');
     src: url('webfonts/amble_bold_macroman/Amble-Bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('webfonts/amble_bold_macroman/Amble-Bold-webfont.woff2') format('woff2'),
          url('webfonts/amble_bold_macroman/Amble-Bold-webfont.woff') format('woff'),
          url('webfonts/amble_bold_macroman/Amble-Bold-webfont.ttf') format('truetype'),
          url('webfonts/amble_bold_macroman/Amble-Bold-webfont.svg#amblebold') format('svg');
@@ -14,7 +13,6 @@
     font-family: 'ambleregular';
     src: url('webfonts/amble_regular_macroman/Amble-Regular-webfont.eot');
     src: url('webfonts/amble_regular_macroman/Amble-Regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('webfonts/amble_regular_macroman/Amble-Regular-webfont.woff2') format('woff2'),
          url('webfonts/amble_regular_macroman/Amble-Regular-webfont.woff') format('woff'),
          url('webfonts/amble_regular_macroman/Amble-Regular-webfont.ttf') format('truetype'),
          url('webfonts/amble_regular_macroman/Amble-Regular-webfont.svg#ambleregular') format('svg');
